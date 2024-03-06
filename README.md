@@ -1,4 +1,5 @@
 # Cancer-De-Mama-Analisis
+https://colab.research.google.com/drive/1d0idfvGeoQSPEq-j_br4lnkwdua1xM-o#scrollTo=RrNSXjy288g8
 Este repositorio contiene un proyecto de análisis de datos de cáncer de mama utilizando Google Colab. Explora las características clínicas y demográficas de mujeres diagnosticadas, con el objetivo de proporcionar percepciones valiosas para profesionales de la salud. Incluye pasos de preprocesamiento, análisis visual y modelado estadístico.
 Proyecto de Análisis de Cáncer de Mama
 Este proyecto en Google Colab se centra en el análisis de datos de cáncer de mama, explorando las características clínicas y demográficas de mujeres diagnosticadas con cáncer de mama. El proyecto utiliza el conjunto de datos "SEER Breast Cancer Data - Labeled" de Kaggle, con el objetivo de obtener información sobre los factores que influyen en la incidencia del cáncer de mama, su gravedad y los resultados para las pacientes.
